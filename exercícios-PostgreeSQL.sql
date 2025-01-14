@@ -48,7 +48,6 @@ select email, city, state
 from sales.customers
 where state not in ('SP')
 
-
 -- (Exercício 6) Selecione os nomes das cidade que começam com a letra Z.
 -- Dados da tabela temp_table.regions
 select city
